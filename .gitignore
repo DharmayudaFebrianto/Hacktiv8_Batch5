@@ -1,0 +1,7 @@
+# Mengabaikan direktori vendor, upload, dan cache
+/vendor/
+/upload/
+/cache
+
+# Mengabaikan file london_crime_by_lsoa.csv
+london_crime_by_lsoa.csv
