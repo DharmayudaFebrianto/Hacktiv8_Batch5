@@ -5,3 +5,8 @@
 
 # Mengabaikan file london_crime_by_lsoa.csv
 london_crime_by_lsoa.csv
+nyc-rolling-sales.csv
+rideshare_kaggle.csv
+
+# Mengabaikan file ETC
+refrensi.ipynb
