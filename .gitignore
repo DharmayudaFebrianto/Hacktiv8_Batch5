@@ -7,6 +7,10 @@
 london_crime_by_lsoa.csv
 nyc-rolling-sales.csv
 rideshare_kaggle.csv
+nbaallelo.csv
 
 # Mengabaikan file ETC
 refrensi.ipynb
+
+# Mengabaikan File txt 
+*.txt
