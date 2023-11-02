@@ -8,6 +8,7 @@ london_crime_by_lsoa.csv
 nyc-rolling-sales.csv
 rideshare_kaggle.csv
 nbaallelo.csv
+weatherAUS.csv
 
 # Mengabaikan file ETC
 refrensi.ipynb
