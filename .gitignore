@@ -9,6 +9,11 @@ nyc-rolling-sales.csv
 rideshare_kaggle.csv
 nbaallelo.csv
 weatherAUS.csv
+heart_failure_clinical_records_dataset.csv
+property_data.csv
+obes.xls
+opsd_germany_daily.csv
+Canada.xlsx
 
 # Mengabaikan file ETC
 refrensi.ipynb
