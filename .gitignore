@@ -14,11 +14,17 @@ property_data.csv
 obes.xls
 opsd_germany_daily.csv
 Canada.xlsx
+bank.csv
 
 # Mengabaikan file ETC
 refrensi.ipynb
 PYTN_KampusMerdeka_fp2_Hafidz.ipynb
+PYTN_Assgn_3_5_Hafidz.ipynb
+decision_tree
 
 
 # Mengabaikan File txt 
 *.txt
+
+# Mengabaikan File pdf
+*.pdf
